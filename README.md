@@ -38,7 +38,7 @@ pip install -r requirements.txt
 python app.py
 </code>
 </pre>
-<p>This will start a local server. Open your web browser and navigate to <code>http://127.0.0.1:7860</code> to access the application.</p>
+<p>This will start a local server. Open your web browser and navigate to <code>http LINK </code> to access the application.</p>
 
 <h2>Configuration</h2>
 <p>Create a <code>.env</code> file in the project root directory with your Google API key:</p>
