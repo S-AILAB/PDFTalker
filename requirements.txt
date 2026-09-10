@@ -1,4 +1,7 @@
-
+streamlit
+pypdf
+google-genai
+numpy
 google-generativeai
 python-dotenv
 langchain
