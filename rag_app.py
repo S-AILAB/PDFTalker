@@ -634,7 +634,7 @@ import numpy as np
 
 
 EMBED_MODEL = "gemini-embedding-001"
-CHAT_MODEL = "gemini-2.5-flash"
+CHAT_MODEL = "gemini-3.8-flash"
 CHUNK_SIZE = 800
 CHUNK_OVERLAP = 150
 TOP_K = 4
