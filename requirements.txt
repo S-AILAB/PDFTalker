@@ -10,3 +10,8 @@ faiss-cpu
 langchain_google_genai
 gradio
 dotenv
+streamlit
+pypdf
+pymupdf
+google-genai
+numpy
