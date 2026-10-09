@@ -1650,7 +1650,7 @@ import altair as alt
 
 
 EMBED_MODEL = "gemini-embedding-001"
-CHAT_MODEL = "gemini-3.5-flash"
+CHAT_MODEL = "gemini-3.5-flash-lite"
 CHUNK_SIZE = 800
 CHUNK_OVERLAP = 150
 TOP_K = 4
